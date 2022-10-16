@@ -1,11 +1,11 @@
 # HACKTOBER FIESTA - 21
 
-## Prerequisites
-- Sign up to [hacktoberfest](https://hacktoberfest.digitalocean.com/)
-- Have python and pip installed on your system
+## INITIAL SETUP
+- Before we begin to dive right into Hacktober,make sure you have these things ready.
+- 1. Have a photo of yours ready in a folder of yours choice.
+- 2. Install VsCode,Git,Github,NodeJS in your system.
 
 <br>
-
 ## Note
 - Create a new pull request, only after the previous one is accepted
 
